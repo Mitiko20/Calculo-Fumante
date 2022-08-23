@@ -1,4 +1,3 @@
-//IFSP - Exercício - LG2A2
 import java.util.Scanner;
 
 class Fumante {
